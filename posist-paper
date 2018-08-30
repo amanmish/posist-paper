@@ -1,0 +1,19 @@
+import java.util.*;
+class Possist
+{
+	class Node
+	{
+		String date;
+		int nodeNumber;
+		String nodeId;
+		String childReferenceId[];
+		String genesisReferenceNodeId;
+		HashSet<String> hs;
+	}
+	Node Genesis;
+	public static void add(Node a,Node newNode)
+	{
+		
+	}
+	
+}
